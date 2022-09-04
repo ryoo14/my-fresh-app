@@ -14,6 +14,12 @@ export default function Home() {
         Welcome to `fresh`. Try updating this message in the ./routes/index.tsx
         file, and refresh.
       </p>
+      <p>
+        kubi itai.
+      </p>
+      <p>
+        hogehoge
+      </p>
       <Counter start={3} />
     </div>
   );
